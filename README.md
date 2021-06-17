@@ -1,1 +1,1 @@
-# Sentinel-2_AWS_download
+# Script for generating giffs from shapefiles.
