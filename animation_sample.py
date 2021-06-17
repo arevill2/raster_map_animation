@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nv  9 15:35:26 2020
+Created on Mon N  9 15:35:26 2020
 
 @author: arevill
 """
